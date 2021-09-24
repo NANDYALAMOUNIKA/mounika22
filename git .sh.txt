@@ -1,1 +1,5 @@
-git repo will store the code from work repo to local repo
+
+=======
+git is scm which is used push and pull the code 
+>>>>>>> Stashed changes
+these is a notebook to note something
