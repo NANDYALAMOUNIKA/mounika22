@@ -1,0 +1,5 @@
+git added to the repo
+from work area to stagging area 
+stagging area to local area 
+then we the code from local repo to central repo
+..............
